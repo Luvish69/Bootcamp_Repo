@@ -1,0 +1,1 @@
+print("Hello world\n" * 4 + "I love Python\n" * 4 )
